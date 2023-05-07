@@ -28,6 +28,17 @@ body{
   flex-direction: column;
 }
 
+#social-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#social-container img{
+  padding: 10px;
+  margin: 10px;
+}
+
 p{
   padding-left: 25px;
 }
